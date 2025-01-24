@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d028a2-1631-47db-b6a6-dd0d731a24dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.streamlit/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educative_chat_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/educative_chat_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_chat_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/simple_chat_bot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Educative Chat Bot.executor": "Run",
-    "Python.Simple Chat Bot.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Educative Chat Bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple Chat Bot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.educative_chat_bot">
     <configuration name="educative_chat_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="chatbot" />
@@ -120,7 +123,10 @@
       <workItem from="1737375855875" duration="171000" />
       <workItem from="1737377545362" duration="1047000" />
       <workItem from="1737382279429" duration="459000" />
-      <workItem from="1737542196387" duration="3110000" />
+      <workItem from="1737542196387" duration="4066000" />
+      <workItem from="1737665578888" duration="1801000" />
+      <workItem from="1737707889863" duration="3437000" />
+      <workItem from="1737722959029" duration="1326000" />
     </task>
     <servers />
   </component>
