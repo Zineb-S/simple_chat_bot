@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d028a2-1631-47db-b6a6-dd0d731a24dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.streamlit/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/educative_chat_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/educative_chat_bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_chat_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/simple_chat_bot.py" afterDir="false" />
-    </list>
+    <list default="true" id="76d028a2-1631-47db-b6a6-dd0d731a24dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +121,7 @@
       <workItem from="1737542196387" duration="4066000" />
       <workItem from="1737665578888" duration="1801000" />
       <workItem from="1737707889863" duration="3437000" />
-      <workItem from="1737722959029" duration="1326000" />
+      <workItem from="1737722959029" duration="1638000" />
     </task>
     <servers />
   </component>

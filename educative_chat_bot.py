@@ -150,10 +150,7 @@ if "selected_question" not in st.session_state:
 if "selected_sub_question" not in st.session_state:
     st.session_state.selected_sub_question = None
 
-# Title and instructions
-st.title("🤖 YnovBot Educative : Votre Assistant Virtuel 🤖 ")
-
-
+# Sidebar: Category selection
 st.sidebar.title("Knowledge Base")
 category = st.sidebar.radio("Choose a category:", list(knowledge_base.keys()))
 
